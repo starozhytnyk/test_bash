@@ -1,4 +1,8 @@
 #!/bin/bash
 
-echo "first bash script"
-echo $USER:$USER
+echo "Some command how to know current users:"
+echo "$USER"
+echo "whoami"
+
+
+echo "some changes"
